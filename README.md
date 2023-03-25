@@ -3,16 +3,12 @@
 ## Installation :
 
 * `apt update`
-* `apt install git python python2 -y`
-* `git clone https://github.com/htr-tech/haxorbd.git`
-* `cd haxorbd`
+* `apt install git python -y`
+* `git clone https://github.com/Itzjisan/Paid.git`
+* `cd Paid`
 
-#### > Run : `python2 haxor.py`
+#### > Run : `python Paid.py`
 
-#### USERNAME : `haxor`
-#### PASSWORD : `htrtech`
+#### For UserName Or Password, You Need To Contact With ME ->
 
-## Single Command :
-```
-apt update ; apt install git python python2 -y ; git clone https://github.com/htr-tech/haxorbd.git ; cd haxorbd ; python2 haxor.py
-```
+
